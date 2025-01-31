@@ -86,8 +86,8 @@ _ _ e _ _
 ## 📩 Contributions & Feedback
 Feel free to contribute and improve this game! 😊 
 
-📧 Contact: [Your Email]
-🌍 GitHub: [Your GitHub Profile]
+📧 Contact: vimukthi@crysolabs.com
+🌍 GitHub: [darkwaves-ofc](https://github.com/darkwaves-ofc)
 
 ---
 🔥 **Start Playing & Challenge Yourself Today!** 🎮
