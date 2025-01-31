@@ -2,6 +2,8 @@
 
 Welcome to **Login & Play**, a simple console-based game hub where you can register, log in, and enjoy classic games like **Rock Paper Scissors** and **HangMan** while earning points! 🎉
 
+![Gameplay Preview](https://github.com/darkwaves-ofc/simple-games/raw/main/screenshots/video.gif)
+
 ## 🚀 Features
 - 📝 **User Registration & Login**
 - 🏆 **Earn Points** by playing games
